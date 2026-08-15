@@ -7,5 +7,6 @@ config.font = wezterm.font 'Moralerspace Argon JPDOC'
 config.font_size = 12.0
 config.use_ime = true
 -- config.window_background_opacity = 0.85
+-- config.window_decorations = "RESIZE"
 
 return config
