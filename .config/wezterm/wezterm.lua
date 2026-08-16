@@ -9,4 +9,7 @@ config.use_ime = true
 -- config.window_background_opacity = 0.85
 -- config.window_decorations = "RESIZE"
 
+config.keys = require("keybinds").keys
+config.key_tables = require("keybinds").key_tables
+
 return config
